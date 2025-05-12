@@ -14,7 +14,7 @@
 - webscraping for data analysis 
 
 ## Key Insights
-- According to the line graph "Historical Share Price", Tesla and GameStop had both highest sales on January 2021, but according to the line graph "Historical Revenue", Tesla and GameStop had different higher revenues in the past.  
+- This shows the list of technology and astronaut.   
 
 - ## Files
 'Lab 2 Collecting Job Data Using APIs' - Jupyter Notebook via Visual Studio Code
